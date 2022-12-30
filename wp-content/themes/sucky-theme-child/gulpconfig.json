@@ -1,0 +1,19 @@
+{
+  "browserSyncOptions": {
+    "proxy": "this-theme-sucks.local",
+    "files": ["./css/*.css", "./sass/*.scss", "./sass/**/_*.scss", "js/*.js", "./**/*.php", "./**/**/*.php"]
+  },
+  "paths": {
+    "js": "./js",
+    "css": "./css",
+    "fonts": "./fonts",
+    "img": "./img",
+    "imgsrc": "./src/img",
+    "sass": "./sass",
+    "node": "./node_modules",
+    "composer": "./vendor",
+    "dev": "./src",
+    "dist": "./dist",
+    "distprod": "./dist-product"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+.htaccess
+.env
+.DS_Store
+**/.DS_Store
+wp-config.php
+wp-content/uploads
+/wp-content/themes/sucky-theme/gulpconfig.json
+package-lock.json
